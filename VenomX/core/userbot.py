@@ -54,7 +54,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("broken_log")
+                await self.one.join_chat("ProHeartless")
                 await self.one.join_chat("broken_log")
             except:
                 pass
@@ -83,7 +83,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("broken_log")
+                await self.two.join_chat("ProHeartless")
                 await self.two.join_chat("Broken_log")
             except:
                 pass
@@ -112,8 +112,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("susanta_bhandarii")
-                await self.three.join_chat("susanta_support")
+                await self.three.join_chat("ProHeartless")
+                await self.three.join_chat("ProHeartless")
             except:
                 pass
             assistants.append(3)
@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("susanta_bhandarii")
-                await self.four.join_chat("susanta_support")
+                await self.four.join_chat("ProHeartless")
+                await self.four.join_chat("ProHeartless")
             except:
                 pass
             assistants.append(4)
@@ -170,8 +170,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("susanta_bhandarii")
-                await self.five.join_chat("susanta_support")
+                await self.five.join_chat("ProHeartless")
+                await self.five.join_chat("ProHeartless")
             except:
                 pass
             assistants.append(5)
