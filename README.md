@@ -1,20 +1,20 @@
-  <p align="center"><a href="https://t.me/lifegrambot"> <img src="https://img.shields.io/badge/Credit%20To%20Owner-darkred?style=for-the-badge" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://t.me/itsHemRaj"> <img src="https://img.shields.io/badge/Credit%20To%20Owner-darkred?style=for-the-badge" width="220" height="38.45"/></a></p>
 
 
 <h2 align="center">
-    ──「SusantaXmusic」──
+    ──「HeartlessXmusic」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/512cb02720b7b73e956a3.jpg">
+  <img src="https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/susantabhandari/susantamusic/stargazers"> <img src="https://img.shields.io/github/stars/susantabhandari/susantamusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/susantabhandari/susantamusic/network/members"> <img src="https://img.shields.io/github/susantabhandari/susantamusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/susantabhandari/susantamusic/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/hemrajPro/heartless/stargazers"> <img src="https://img.shields.io/github/stars/hemrajpro/heartles?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/hemrajPro/heartles/network/members"> <img src="https://img.shields.io/github/hemrajpro/heartles?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/hemrajpro/heartles/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/susantabhandari/susantamusic/commits/venombolteop"> <img src="https://img.shields.io/github/last-commit/susantabhandari/susantamusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/hemrajPro/Heartles/commits/venombolteop"> <img src="https://img.shields.io/github/last-commit/hemrajPro/heartles?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
@@ -28,7 +28,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/susantabhandari/susantamusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/hemrajPro/heartles/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -40,7 +40,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/venombolteop/VenomMusic&& cd VenomMusic`
+`git clone https://github.com/hemrajPro/heartles&& cd heartles`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -65,7 +65,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/susanta_bhandarii"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/broken_log"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
