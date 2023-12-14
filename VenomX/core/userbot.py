@@ -13,35 +13,35 @@ assistantids = []
 class Userbot(Client):
     def __init__(self):
         self.one = Client(
-            name="SusantaXAss1",
+            name="Heartless1",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING1),
             no_updates=True,
         )
         self.two = Client(
-            name="SusantaXAss2",
+            name="Heartless2",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING2),
             no_updates=True,
         )
         self.three = Client(
-            name="SusantaXAss3",
+            name="Heartless3",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING3),
             no_updates=True,
         )
         self.four = Client(
-            name="SusantaXAss4",
+            name="Heartless4",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING4),
             no_updates=True,
         )
         self.five = Client(
-            name="SusantaXAss5",
+            name="Heartless5",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING5),
@@ -54,8 +54,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("susanta_bhandarii")
-                await self.one.join_chat("susanta_support")
+                await self.one.join_chat("broken_log")
+                await self.one.join_chat("broken_log")
             except:
                 pass
             assistants.append(1)
@@ -83,8 +83,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("susanta_bhandarii")
-                await self.two.join_chat("susanta_support")
+                await self.two.join_chat("broken_log")
+                await self.two.join_chat("Broken_log")
             except:
                 pass
             assistants.append(2)
