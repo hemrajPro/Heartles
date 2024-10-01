@@ -16,16 +16,16 @@ BOT_TOKEN = getenv("BOT_TOKEN", "")
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 5400))
+DURATION_LIMIT_MIN = getenv("DURATION_LIMIT", 5400)
 
 SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", ""))
+LOGGER_ID = getenv("LOGGER_ID", "")
 
 # Get this value from @Hot_Girl_Robot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "6906607945"))
+OWNER_ID = getenv("OWNER_ID", "6906607945")
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
